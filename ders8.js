@@ -1,0 +1,1 @@
+window.alert("ben bir alertim bööööö")
